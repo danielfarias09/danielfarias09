@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Daniel Farias, I have experience with web and mobile development. In my free time I like to listen to podcasts,
+play video games, go out with friends and travel.
+
+- Code: Java(Web and Mobile), JavaScript, TypeScript, HTML, CSS;
+- Tools: Spring, Hibernate, Angular, Ionic, Bootstrap;
+
 <!--
 **danielfarias09/danielfarias09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
